@@ -1,0 +1,1 @@
+CASERY V5 — Updated Spy poster with Nexora boardroom background. Upload index.html to root of GitHub repo on main, commit, then check GitHub Pages. Other event banners remain embedded. The site is a UI demo (not live multiplayer or payments).
